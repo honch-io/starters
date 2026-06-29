@@ -1,0 +1,14 @@
+# CMake build output (c-posix)
+build/
+
+# MicroPython bytecode
+*.mpy
+__pycache__/
+
+# ESP-IDF build output
+sdkconfig
+sdkconfig.old
+managed_components/
+
+# Local design specs (kept out of the published starters)
+docs/superpowers/
