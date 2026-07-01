@@ -1,4 +1,4 @@
-# Honch starters
+ # 🛠  `starters`, Honch project examples
 
 Runnable starter projects the [Honch setup wizard](https://github.com/honch-io/wizard)
 (`npx @honch/start`) can scaffold when you run it in an empty directory ("Try Honch").
